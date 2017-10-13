@@ -1,0 +1,10 @@
+c:\users\jukotali\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp2.0\SocketClient.deps.json
+c:\users\jukotali\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp2.0\SocketClient.runtimeconfig.json
+c:\users\jukotali\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp2.0\SocketClient.runtimeconfig.dev.json
+c:\users\jukotali\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp2.0\SocketClient.dll
+c:\users\jukotali\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp2.0\SocketClient.pdb
+c:\users\jukotali\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp2.0\SocketClient.csproj.CoreCompileInputs.cache
+c:\users\jukotali\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp2.0\SocketClient.AssemblyInfoInputs.cache
+c:\users\jukotali\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp2.0\SocketClient.AssemblyInfo.cs
+c:\users\jukotali\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp2.0\SocketClient.dll
+c:\users\jukotali\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp2.0\SocketClient.pdb
